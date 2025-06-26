@@ -11,5 +11,5 @@ Takes in the health conditions of people and predict whether ths person has diab
 - Making a machine learning model is not as hard as it sounds
 - Models are always evaluated
 
-# Possible extensions in the future:
+# Possible extensions:
 Have multiple diseases in the training dataset and have the model classify which disease might be concerned based on the person's health conditions
